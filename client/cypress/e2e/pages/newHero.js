@@ -31,5 +31,4 @@ class NewHeroPage {
 
 
 }
-
 export default NewHeroPage

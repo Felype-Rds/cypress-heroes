@@ -11,5 +11,6 @@ describe('Cadastro de um novo heroi',() => {
         newHero.accessNewHeroPage()
         newHero.myNewHero('Ray', '10', '1000','97', 'Super Speed')
         newHero.confirmNewHero()
+        
     })
 })
